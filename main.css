@@ -1,3 +1,8 @@
 
- h1 {color:white;}
- p {color:white;}
+h1 {color:white;}
+p {color:white;}
+
+body {z-index: 1; font-family: arial; color:white; margin-top: 200px; margin-left: 260px; background-image:url(bg.jpg)}
+
+div.quadro-negro {z-index: 2; position: absolute; background-color:black; width: 540px; height: 540px; border: 40, black; opacity: .60;}
+div.conteudo {z-index: 3; stop-opacity: true; position: absolute; left: 310px; top: 310;}
