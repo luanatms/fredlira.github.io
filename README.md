@@ -1,3 +1,11 @@
 # fredlira.github.io
 
-teste de pagina pessoal
+Fred Lira
+
+Engenheiro da Computação
+
+fred.lira at gmail.com
+
+Twiiter Link
+
+LinkedLn Link
