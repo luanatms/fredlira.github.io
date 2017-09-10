@@ -2,7 +2,7 @@
 
 Fred Lira
 
-Engenheiro da ComputaÃ§Ã£o
+Engenheiro da Computação
 
 fred.lira at gmail.com
 
